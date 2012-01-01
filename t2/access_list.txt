@@ -1,0 +1,2 @@
+DENY=omda.com
+ALLOW=www.hotmail.com
